@@ -1,0 +1,1 @@
+web: gunicorn Simple_website_v1:app
